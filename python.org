@@ -1,0 +1,65 @@
+* Basics
+- [[https://docs.python.org/3/tutorial/][Official tutorial]]
+- [[https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf][Pythonbook]]
+- [[https://diveintopython3.problemsolving.io/][Dive into Python 3]]
+
+* Style guide
+- [[https://github.com/makimo/style-guide/blob/master/python.md][Makimo's style guide]]
+
+* Modules
+- [[https://stackoverflow.com/questions/19198166/whats-the-difference-between-a-module-and-a-library-in-python/19198449#19198449][The difference between library and module]]
+
+* F string
+- [[https://www.python.org/dev/peps/pep-0498/][PEP-498]]
+- [[https://realpython.com/python-f-strings/][Python's F-strings]]
+
+* Advanced usage of sets, lists and dicts
+- [[https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Comprehensions.html][Comprehensions]]
+- [[https://railsware.com/blog/python-for-machine-learning-indexing-and-slicing-for-lists-tuples-strings-and-other-sequential-types/][Python for Machine Learning: Indexing and Slicing for Lists, Tuples, Strings, and other Sequential Types]]
+
+* Idioms and antipatterns
+- [[https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features-ebook/dp/B0785Q7GSY][Python Tricks: A Buffet of Awesome Python Features Kindle Edition]]
+- [[http://docs.quantifiedcode.com/python-anti-patterns/index.html][The Little Book of Python Anti-Patterns]]
+
+* Decorators
+- [[https://realpython.com/primer-on-python-decorators/][Primer on Python's decorators]]
+
+* Typing
+- [[https://docs.python.org/3/library/typing.html][typing — Support for type hints]]
+
+* Classes
+- [[https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3][Understanding Class and Instance Variables in Python 3]]
+- [[https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/][Understanding Python metaclasses]]
+- [[https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/][Everything I know about Python...]]
+
+* Data classes
+- [[https://docs.python.org/3/library/dataclasses.html][dataclasses — Data Classes]]
+
+* Advanced syntax
+- [[https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/][Is Python pass-by-reference or pass-by-value?]]
+- [[https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/][Asterisks in Python: what they are and how to use them]]
+- [[https://blog.tecladocode.com/destructuring-in-python/][Destructuring in Python]]
+- [[https://rszalski.github.io/magicmethods/][A Guide to Python's Magic Methods]]
+- [[https://medium.com/dev-genius/python-closures-b71e8847286f][Python Closures- Demystified]]
+
+* Iterators
+- [[https://treyhunner.com/2018/06/how-to-make-an-iterator-in-python/][How to make an iterator in Python]]
+- [[https://realpython.com/python-itertools/][Itertools in Python 3, By Example]]
+
+* Tests
+- [[https://realpython.com/python-testing/][Getting Started With Testing in Python]]
+- [[https://docs.pytest.org/en/stable/][pytest: helps you write better programs]]
+- [[https://hypothesis.readthedocs.io/en/latest/][Hypothesis]]
+
+* Related to Python 3.9
+- [[https://www.python.org/dev/peps/pep-0584/][PEP-584]]
+- [[https://www.python.org/dev/peps/pep-0585/][PEP-585]]
+
+* Tutorials
+- [[https://www.twilio.com/quest/learn/python][Mysteries of Python temple]]
+- [[https://github.com/zhiwehu/Python-programming-exercises][Python-programming-exercises]]
+- [[https://pythonprogramming.net/][Python programming]]
+
+* Other
+- [[https://drive.google.com/file/d/1noaW1Us0Rnz3xB1nn5MXRBEjsa99jkd7/view?usp=sharing]]
+- [[https://learnxinyminutes.com/docs/python/][Learn Python in Y minutes]]
