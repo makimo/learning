@@ -4,12 +4,12 @@
 - [[http://clojuredocs.org]]
 - [[http://clojure-doc.org]]
 
-* Books (check if available in library):
+* Books (check if available in the library):
 - The Joy of Clojure
 - Programming Clojure
 
 * Free learning resources:
-- [[https://learnxinyminutes.com/docs/clojure/][Learn Clojure in Y minutes]] (quick glance at syntax)
+- [[https://learnxinyminutes.com/docs/clojure/][Learn Clojure in Y minutes]] (quick glance at the syntax)
 - [[https://www.youtube.com/user/ClojureTV][ClojureTV on Youtube]]
 - [[http://clojurians.slack.com][Clojurians on Slack]] (for asking questions)
 - [[https://www.jacekschae.com/courses/learn-reagent-free][Learn Reagent]]
