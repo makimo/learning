@@ -1,0 +1,102 @@
+* Clojure REPL quickstart
+
+There are a few options on how you can start playing with Clojure.
+Choose one that suits you.
+
+** Install Leiningen
+
+Leiningen is what npm is for JavaScript. You can install it in a couple of
+ways:
+
+*** From repository:
+
+#+BEGIN_SRC bash
+sudo apt install leiningen
+#+END_SRC
+
+*** Directly
+
+Follow istructions given here: https://leiningen.org/
+
+** Install Clojure
+
+*** From repository (Ubuntu)
+
+#+BEGIN_SRC bash
+sudo apt install clojure
+#+END_SRC
+
+*** Via script installer (Linux)
+
+To install with the Linux installer:
+
+1. Ensure that the following dependencies are installed: bash, curl, rlwrap, and Java.
+2. Use the linux-install script to download and run the install, which will
+   create /usr/local/bin/clj, /usr/local/bin/clojure, and /usr/local/lib/clojure:
+
+   #+BEGIN_SRC bash
+   curl -O https://download.clojure.org/install/linux-install-1.10.1.561.sh
+   chmod +x linux-install-1.10.1.561.sh
+   sudo ./linux-install-1.10.1.561.sh
+   #+END_SRC
+
+*** Via Homebrew (MacOS)
+
+Install the command line tools with brew from the clojure/tools tap:
+
+#+BEGIN_SRC bash
+brew install clojure/tools/clojure
+#+END_SRC
+
+If you’ve already installed, you can upgrade to the latest release with:
+
+#+BEGIN_SRC bash
+brew upgrade clojure/tools/clojure
+#+END_SRC
+
+*** Installation on Windows
+
+An early release version of clj on Windows is available at clj on Windows.
+Please provide feedback at https://clojure.atlassian.net/projects/TDEPS.
+
+*** Local build
+
+Download and build Clojure from source (requires Git, Java, and Maven):
+
+#+BEGIN_SRC bash
+git clone https://github.com/clojure/clojure.git
+cd clojure
+mvn -Plocal -Dmaven.test.skip=true package
+#+END_SRC
+
+Then start the REPL with the local jar:
+
+#+BEGIN_SRC bash
+java -jar clojure.jar
+#+END_SRC
+
+*** Try Clojure online
+
+repl.it provides a browser-based Clojure repl for interactive exploration.
+
+** Via Docker
+
+Assuming you've Docker installed, simply run:
+
+#+BEGIN_SRC bash
+docker run --rm -it clojure lein repl
+#+END_SRC
+
+** Starting REPL
+
+If you've installed Lein, start REPL with the following command:
+
+#+BEGIN_SRC bash
+lein repl
+#+END_SRC
+
+If you've installed Clojure directly, run:
+
+#+BEGIN_SRC bash
+clojure
+#+END_SRC
