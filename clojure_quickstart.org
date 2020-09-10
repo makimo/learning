@@ -20,7 +20,10 @@ Follow istructions given here: https://leiningen.org/
 
 ** Install Clojure
 
-*** From repository (Ubuntu)
+*** From repository (Linux)
+
+On many Linux distributions, installation is as easy as installing
+single ~clojure~ package. For example, on Ubuntu:
 
 #+BEGIN_SRC bash
 sudo apt install clojure
