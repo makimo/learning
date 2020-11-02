@@ -1,0 +1,6 @@
+* Documentation
+- [[https://reactjs.org/docs/getting-started.html][React official documentation]]
+- [[https://create-react-app.dev/docs/getting-started][Create React App documentation]]
+- [[https://redux.js.org/][Redux documentation]]
+- [[https://redux-toolkit.js.org/][Redux Toolkit documentation]]
+- [[https://facebook.github.io/flux/docs/in-depth-overview/][Flux documentation]]
