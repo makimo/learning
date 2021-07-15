@@ -1,0 +1,23 @@
+* Useful Documentation:
+- [[https://events.flutter.dev/engage/learn/][Flutter Learning Center]] (start here!)
+- [[https://dart.dev/guides/language/language-tour][Tour of Dart]] (overview of the core language)
+- [[https://dart.dev/guides/language/effective-dart][Effective Dart]] (style/usage guides)
+- [[https://flutter.dev/docs/development][Flutter Developement]] (overview of core topics)
+- [[https://flutter.dev/docs/resources/architectural-overview][Flutter Architectural Overview]]
+- [[https://flutter.dev/docs/development/data-and-backend/state-mgmt/options][List of state management approaches]]
+- [[https://api.flutter.dev/][Flutter API docs]]
+
+* Samples / Cookbooks
+- [[https://flutter.dev/docs/cookbook][Flutter Cookbook]]
+- [[https://flutter.github.io/samples/][Flutter Samples]]
+
+* Tutorials / Codelabs
+- https://flutter.dev/docs/codelabs
+- https://flutter.dev/docs/reference/tutorials
+
+* More Resources
+- [[https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw][Flutter YouTube Channel]]
+- [[https://www.youtube.com/watch?v=d_m5csmrf7I][Pragmatic State Management in Flutter]] (core design ideas behind state in Flutter)
+- [[https://medium.com/flutter-community][Flutter Community on Medium]]
+- [[https://itsallwidgets.com/][Flutter Showcase]] (apps build with Flutter for reference)
+- [[https://www.youtube.com/watch?v=CXedqMlLo7M&list=PLOU2XLYxmsIJyiwUPCou_OVTpRIn_8UMd][Widgets 101]]
